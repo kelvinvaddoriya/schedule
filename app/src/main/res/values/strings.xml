@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Schedule</string>
+    <string name="greetings">Greetings</string>
+    <string name="current_month">Current Month</string>
+    <string name="arrow_forward">arrow forward</string>
+    <string name="morning">Morning</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="evening">Evening</string>
+    <string name="night">Night</string>
+    <string name="open_cards_button">Open Cards Button</string>
+    <string name="_5_30_am_6_30_am_1_hour">5:30 am - 6:30 am(1 hour)</string>
+    <string name="fri_in_katie_humphrey_fitness_studio">Fri in katie Humphrey Fitness Studio</string>
+    <string name="sarah_baltzer">Sarah Baltzer</string>
+    <string name="bodypump_any_level">BODYPUMP - Any Level</string>
+    <string name="open_the_card">Open The Card</string>
+</resources>
